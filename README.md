@@ -1,7 +1,7 @@
 # Lern-Periode 4
 Fynn Huber
 
-*20.02 bis 02.04.2024*
+20.02 bis 02.04.2024
 
 # Grob-Planung
 

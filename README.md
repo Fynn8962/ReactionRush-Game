@@ -44,14 +44,19 @@ nachgedacht welche ich in der LP4 nachgehen möchte. Ich habe mich dann für die
 
 ### *27.2.2024*
 
-[ ] Erstes Arbeitspaket     
-[ ] ...    
-[ ] Viertes AP    
+[ ] Auflistung mit einem Dicitonary in C# über Auto Modelle.    
+[ ] Abfragen der Auflistung  nach z.B Modell oder Baujahr.    
+[ ] Veränderung der Auflistung, z.B neues Modell hinzufügen oder altes Löschen.    
+[ ] Probleme 1-3 auf projectuler.net lösen, möglist schön.       
 
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?    
-1			   	
-...	   			
-4				   
+&nbsp;
+
+| Testfall-Nummer | Ausgangslage (Given) |	Eingabe (When) | Ausgabe (Then) | Erfüllt? | 
+|-----------------|----------------------|----------------|----------------|----------|
+1 | VS geöffnet | new Dictionary<Datentyp>(); | Dicitonary erstellt | |	   	
+2 | Dictionary erstellt | if(dict.Bedingung){ dann das } | ausgabe des Inhalt | |
+3 | Dictionary erstellt | dict.add(Daten) | änderung des Inhalts | |
+4 |		   Project Euler Problemstellung | Code zur Problemlösung | Antwort auf Problem | | 
 
 &nbsp;
 

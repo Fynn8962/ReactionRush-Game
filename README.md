@@ -24,6 +24,8 @@ Falls dies nicht genügend Zeit in anspruch nimmt, möchte ich noch LINQ (um mit
 Mithilfe von async und await eine Wetterdaten, bzw. Wettervohersage zu Coden. (Expolartiom)
 Mittels LINQ eine SQL-Datenbank verknüpfen und damit interagieren. (Exploration)
 
+
+
 20.2.2024
 Heute habe ich... (50-100 Wörter)
 

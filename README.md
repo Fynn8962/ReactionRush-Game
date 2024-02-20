@@ -44,10 +44,10 @@ nachgedacht welche ich in der LP4 nachgehen möchte. Ich habe mich dann für die
 
 ### *27.2.2024*
 
-[ ] Auflistung mit einem Dicitonary in C# über Auto Modelle.    
-[ ] Abfragen der Auflistung  nach z.B Modell oder Baujahr.    
-[ ] Veränderung der Auflistung, z.B neues Modell hinzufügen oder altes Löschen.    
-[ ] Probleme 1-3 auf projectuler.net lösen, möglist schön.       
+- [ ] Auflistung mit einem Dicitonary in C# über Auto Modelle.    
+- [ ] Abfragen der Auflistung  nach z.B Modell oder Baujahr.    
+- [ ] Veränderung der Auflistung, z.B neues Modell hinzufügen oder altes Löschen.    
+- [ ] Probleme 1-3 auf projectuler.net lösen, möglist schön.       
 
 &nbsp;
 

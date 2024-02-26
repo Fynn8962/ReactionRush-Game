@@ -37,7 +37,7 @@ Meine Denkensweise im Bezug auf Coding-Probleme verbessern, zum Beispiel mit Pro
 
 **Heute habe ich...(50-100 Wörter)**
 
- Meine Grobplanung verfasst, in der ich meine Noten und die VBV der vorherigen LP angeschaut und reflektiert habe. Anschliessend über eine neue Tähtigkeit 
+ Meine Grobplanung verfasst, in der ich meine Noten und die VBV der vorherigen LP angeschaut und reflektiert habe. Anschliessend habe über eine neue Tähtigkeit 
 nachgedacht welche ich in der LP4 nachgehen möchte. Ich habe mich dann für die vertiefung meiner Routine im Coden entschieden und mir neue Befehle in C# wie auch das lösen von mathematischen Problemen zur Aufgabe gemacht.
 
 &nbsp;

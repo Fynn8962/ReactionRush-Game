@@ -69,10 +69,10 @@ Da wir heute nur bis 11:00 Zeit hatten, habe ich das vierte Arbeitspaket nicht b
 
 ### *05.03.2024*
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]     
+- [ ] ...
+- [ ] ...
+- [ ] ...
+- [ ] ...    
 
 &nbsp;
 
@@ -81,8 +81,9 @@ Da wir heute nur bis 11:00 Zeit hatten, habe ich das vierte Arbeitspaket nicht b
 
 &nbsp;
 
- **Heute habe ich...(50-100 Wörter)**
+ **Heute habe ich...**
 
+...
 
  
 ### Reflexion

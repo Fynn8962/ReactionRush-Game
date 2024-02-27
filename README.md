@@ -44,25 +44,26 @@ nachgedacht welche ich in der LP4 nachgehen möchte. Ich habe mich dann für die
 
 ### *27.2.2024*
 
-- [ ] Auflistung mit einem Dicitonary in C# über Auto Modelle.    
-- [ ] Abfragen der Auflistung  nach z.B Modell oder Baujahr.    
-- [ ] Veränderung der Auflistung, z.B neues Modell hinzufügen oder altes Löschen.    
+- [x] Auflistung mit einem Dicitonary in C# über Auto Modelle.    
+- [x] Abfragen der Auflistung  nach z.B Modell oder Baujahr.    
+- [x] Veränderung der Auflistung, z.B neues Modell hinzufügen oder altes Löschen.    
 - [ ] Probleme 1-3 auf projectuler.net lösen, möglist schön.       
 
 &nbsp;
 
 | Testfall-Nummer | Ausgangslage (Given) |	Eingabe (When) | Ausgabe (Then) | Erfüllt? | 
 |-----------------|----------------------|----------------|----------------|----------|
-1 | VS geöffnet | new Dictionary<Datentyp>(); | Dicitonary erstellt | |	   	
-2 | Dictionary erstellt | if(dict.Bedingung){ dann das } | ausgabe des Inhalt | |
-3 | Dictionary erstellt | dict.add(Daten) | änderung des Inhalts | |
+1 | VS geöffnet | new Dictionary<Datentyp>(); | Dicitonary erstellt | x |	   	
+2 | Dictionary erstellt | if(dict.Bedingung){ dann das } | ausgabe des Inhalt | x |
+3 | Dictionary erstellt | dict.add(Daten) | änderung des Inhalts | x |
 4 |		   Project Euler Problemstellung | Code zur Problemlösung | Antwort auf Problem | | 
 
 &nbsp;
 
- Heute habe ich...(50-100 Wörter)
+ **Heute habe ich...(50-100 Wörter)**
 
- Vergessen Sie nicht,  einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
+Ich habe in VS ein Dictionary über Porsche Modelle erstellt. Anschliessend habe ich ein zweites Dictionary mit PS-Werten erstellt, hierbei habe ich darauf geachtet, dass die Key der jeweiligen Values in den zwei Dictionary übereinstimmen. Das heisst das Modell mit Key = 1 hat den dazugehörige PS-Wert beim zweiten Dictionary auch bei Key = 1. Somit habe ich sozusagen zwei Tabellen die miteinander in verbindung stehen erstellt. Den Code habe ich auf mein repository hochgeladen. Am schluss habe ich mithilfe einer foreach Schleife die alle Werte in den beiden Dictionarys ausgegeben und die jeweilligen Key's zusammengefügt.
+Da wir heute nur bis 11:00 Zeit hatten, habe ich das vierte Arbeitspaket nicht bearbeitet. 
 
 &nbsp;
 

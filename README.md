@@ -75,15 +75,19 @@ Da wir heute nur bis 11:00 Zeit hatten, habe ich das vierte Arbeitspaket nicht b
 
 ### *05.03.2024*
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...    
+- [ ] Game in dem man in unterschiendlichen abständen verschiedene Tasten(z.B Pfeiltasten) drücken muss. (Inspiration: Guitar Hero)
+- [ ] Wenn man eine falsche taste drückt, oder zu langsam ist, hat man verloren und das Programm soll den Score anzeigen.
+- [ ] Verschiedene Schwierigkeitsstufen die ausgewählt werden können.
+- [ ] Probleme 1-3 auf projectuler.net lösen, möglist schön.    
 
 &nbsp;
 
 | Testfall-Nummer | Ausgangslage (Given) |	Eingabe (When) | Ausgabe (Then) | Erfüllt? | 
 |-----------------|----------------------|----------------|----------------|----------|
+| 1 | game gestartet | linke Pfeiltaste | Runde wird vortgesetzt | |
+| 2 | Game gestartet | falsche Pfeiltaste | Runde wird beendet | |
+| 3 | Game Menu | Auswahl leicht, mittel, schwer | Schwierigkeit wird angepasst | |
+| 4 |		Project Euler Problemstellung | Code zur Problemlösung | Antwort auf Problem | |
 
 &nbsp;
 

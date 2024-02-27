@@ -35,7 +35,7 @@ Meine Denkensweise im Bezug auf Coding-Probleme verbessern, zum Beispiel mit Pro
 
 ### *20.2.2024*
 
-**Heute habe ich...(50-100 Wörter)**
+**Heute habe ich...**
 
  Meine Grobplanung verfasst, in der ich meine Noten und die VBV der vorherigen LP angeschaut und reflektiert habe. Anschliessend habe über eine neue Tähtigkeit 
 nachgedacht welche ich in der LP4 nachgehen möchte. Ich habe mich dann für die vertiefung meiner Routine im Coden entschieden und mir neue Befehle in C# wie auch das lösen von mathematischen Problemen zur Aufgabe gemacht.
@@ -60,7 +60,7 @@ nachgedacht welche ich in der LP4 nachgehen möchte. Ich habe mich dann für die
 
 &nbsp;
 
- **Heute habe ich...(50-100 Wörter)**
+ **Heute habe ich...**
 
 Ich habe in VS ein Dictionary über Porsche Modelle erstellt. Anschliessend habe ich ein zweites Dictionary mit PS-Werten erstellt, hierbei habe ich darauf geachtet, dass die Key der jeweiligen Values in den zwei Dictionary übereinstimmen. Das heisst das Modell mit Key = 1 hat den dazugehörige PS-Wert beim zweiten Dictionary auch bei Key = 1. Somit habe ich sozusagen zwei Tabellen die miteinander in verbindung stehen erstellt. Den Code habe ich auf mein repository hochgeladen. Am schluss habe ich mithilfe einer foreach Schleife die alle Werte in den beiden Dictionarys ausgegeben und die jeweilligen Key's zusammengefügt.
 Da wir heute nur bis 11:00 Zeit hatten, habe ich das vierte Arbeitspaket nicht bearbeitet. 
@@ -69,5 +69,21 @@ Da wir heute nur bis 11:00 Zeit hatten, habe ich das vierte Arbeitspaket nicht b
 
 ### *05.03.2024*
 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ]     
+
+&nbsp;
+
+| Testfall-Nummer | Ausgangslage (Given) |	Eingabe (When) | Ausgabe (Then) | Erfüllt? | 
+|-----------------|----------------------|----------------|----------------|----------|
+
+&nbsp;
+
+ **Heute habe ich...(50-100 Wörter)**
+
+
+ 
 ### Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).

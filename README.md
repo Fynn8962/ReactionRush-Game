@@ -75,7 +75,7 @@ Da wir heute nur bis 11:00 Zeit hatten, habe ich das vierte Arbeitspaket nicht b
 
 ### *05.03.2024*
 
-- [ ] Game in dem man in unterschiendlichen abständen verschiedene Tasten(z.B Pfeiltasten) drücken muss. (Inspiration: Guitar Hero)
+- [ ] Game in dem man in unterschiendlichen Abständen verschiedene Tasten(z.B Pfeiltasten) drücken muss. (Inspiration: Guitar Hero)
 - [ ] Wenn man eine falsche taste drückt, oder zu langsam ist, hat man verloren und das Programm soll den Score anzeigen.
 - [ ] Verschiedene Schwierigkeitsstufen die ausgewählt werden können.
 - [ ] Probleme 1-3 auf projectuler.net lösen, möglist schön.    

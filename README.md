@@ -41,6 +41,7 @@ Meine Denkensweise im Bezug auf Coding-Probleme verbessern, zum Beispiel mit Pro
 nachgedacht welche ich in der LP4 nachgehen möchte. Ich habe mich dann für die vertiefung meiner Routine im Coden entschieden und mir neue Befehle in C# wie auch das lösen von mathematischen Problemen zur Aufgabe gemacht.
 
 &nbsp;
+&nbsp;
 
 ### *27.2.2024*
 

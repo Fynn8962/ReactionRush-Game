@@ -33,6 +33,8 @@ Meine Denkensweise im Bezug auf Coding-Probleme verbessern, zum Beispiel mit Pro
 
 &nbsp;
 
+&nbsp;
+
 ### *20.2.2024*
 
 **Heute habe ich...**

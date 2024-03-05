@@ -117,7 +117,7 @@ Ich habe angefangen mein Spiel "PressTheButtons" zu Coden. Bis jetzt  werden for
 
  &nbsp;
 
- **Heute habe ich...**
+ **Heute habe ich...**         
 .......
  
 ### Reflexion

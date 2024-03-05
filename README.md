@@ -75,8 +75,8 @@ Da wir heute nur bis 11:00 Zeit hatten, habe ich das vierte Arbeitspaket nicht b
 
 ### *05.03.2024*
 
-- [ ] Game in dem man in unterschiendlichen Abständen verschiedene Tasten(z.B Pfeiltasten) drücken muss. (Inspiration: Guitar Hero)
-- [ ] Wenn man eine falsche taste drückt, oder zu langsam ist, hat man verloren und das Programm soll den Score anzeigen.
+- [x] Game in dem man in unterschiendlichen Abständen verschiedene Tasten(z.B Pfeiltasten) drücken muss. (Inspiration: Guitar Hero)
+- [x] Wenn man eine falsche taste drückt, oder zu langsam ist, hat man verloren und das Programm soll den Score anzeigen.
 - [ ] Verschiedene Schwierigkeitsstufen die ausgewählt werden können.
 - [ ] Probleme 1-3 auf projectuler.net lösen, möglist schön.    
 
@@ -84,17 +84,41 @@ Da wir heute nur bis 11:00 Zeit hatten, habe ich das vierte Arbeitspaket nicht b
 
 | Testfall-Nummer | Ausgangslage (Given) |	Eingabe (When) | Ausgabe (Then) | Erfüllt? | 
 |-----------------|----------------------|----------------|----------------|----------|
-| 1 | game gestartet | linke Pfeiltaste | Runde wird vortgesetzt | |
-| 2 | Game gestartet | falsche Pfeiltaste | Runde wird beendet | |
-| 3 | Game Menu | Auswahl leicht, mittel, schwer | Schwierigkeit wird angepasst | |
+| 1 | game gestartet | linke Pfeiltaste | Runde wird vortgesetzt |x |
+| 2 | Game gestartet | falsche Pfeiltaste | Runde wird beendet |x |
+| 3 | Game Menü | Auswahl leicht, mittel, schwer | Schwierigkeit wird angepasst | |
 | 4 |		Project Euler Problemstellung | Code zur Problemlösung | Antwort auf Problem | |
 
 &nbsp;
 
  **Heute habe ich...**
 
-...
+Ich habe angefangen mein Spiel "PressTheButtons" zu Coden. Bis jetzt  werden fortlaufend zufällige Tasten generiert die man drücken muss, ist man zu langsam , oder hat man die falsche Taste drückt, stopt der Versuch. Da ich Anfangs Schwierigkeiten hatte, wie zum Beispiel das die Zeit richtig gestoppt wird, bin ich nocht nicht Fertig. Nächstes mal will ich das Spiel erneut spielbar machen mithilfe eins Restart Menü, ausserdem soll es einen Punktezähler geben, der zählt wie viel mal die richtige Taste gedrückt worden ist. Falls ich noch genügend Zeit habe, möchte ich noch die Darstellung verschönern. Ziel ist jedoch, bis am 12.03.2024 mit dem Spiel fertig zu werden.
 
+&nbsp;
+
+&nbsp;
+
+### *12.03.2024*
+
+- [ ] Verschiedene Schwierigkeitsstufen die ausgewählt werden können (leicht, mittel, schwer)
+- [ ] Restart Menü, um nochmal  zu Spielen oder um aufzuhören.
+- [ ] Punktezähle am Ende des versuchs
+- [ ] Benutzerfreundliche oberfläche, damit das Spiel mehr Spass macht.
+
+&nbsp;
+
+| Testfall-Nummer | Ausgangslage (Given) |	Eingabe (When) | Ausgabe (Then) | Erfüllt? | 
+|-----------------|----------------------|----------------|----------------|----------|
+| 1 | game Menü | Auswahl einfach, mittel, schwer | Schwierigkeit wird angepasst | |
+| 2 | restart Menü | Auswahl: fortfahren, beenden | Auswahl wird ausgeführt | |
+| 3 | versuche vorbei (game over) | gedrückt Tasten zusammenzählen | Ausgabe anzahl gedrückter Tasten | |
+| 4 |		game Spielen | Schöne, übersichtliche Darstellung | freude am Spiel | |
+
+ &nbsp;
+
+ **Heute habe ich...**
+.......
  
 ### Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).

@@ -101,10 +101,10 @@ Ich habe angefangen mein Spiel "PressTheButtons" zu Coden. Bis jetzt  werden for
 
 ### *12.03.2024*
 
-- [ ] Verschiedene Schwierigkeitsstufen die ausgewählt werden können (leicht, mittel, schwer)
+- [ ] Verschiedene Schwierigkeitsstufen die ausgewählt werden können (leicht, mittel, schwer).
 - [ ] Restart Menü, um nochmal  zu Spielen oder um aufzuhören.
-- [ ] Punktezähle am Ende des versuchs
-- [ ] Benutzerfreundliche oberfläche, damit das Spiel mehr Spass macht.
+- [ ] Punktezähle am Ende des versuchs, der gedrückte Tasten zusammenzählt.
+- [ ] Anschauliche, Benutzerfreundliche Oberfläche, damit das Spiel mehr Spass macht.
 
 &nbsp;
 

@@ -112,7 +112,7 @@ Ich habe angefangen mein Spiel "PressTheButtons" zu Coden. Bis jetzt  werden for
 |-----------------|----------------------|----------------|----------------|----------|
 | 1 | game Menü | Auswahl einfach, mittel, schwer | Schwierigkeit wird angepasst | |
 | 2 | restart Menü | Auswahl: fortfahren, beenden | Auswahl wird ausgeführt | |
-| 3 | versuche vorbei (game over) | gedrückt Tasten zusammenzählen | Ausgabe anzahl gedrückter Tasten | |
+| 3 | versuch vorbei, (game over) | gedrückt Tasten zusammenzählen | Ausgabe anzahl gedrückter Tasten | |
 | 4 |		game Spielen | Schöne, übersichtliche Darstellung | freude am Spiel | |
 
  &nbsp;

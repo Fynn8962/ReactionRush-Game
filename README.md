@@ -93,7 +93,7 @@ Da wir heute nur bis 11:00 Zeit hatten, habe ich das vierte Arbeitspaket nicht b
 
  **Heute habe ich...**
 
-Ich habe angefangen mein Spiel "PressTheButtons" zu Coden. Bis jetzt  werden fortlaufend zufällige Tasten generiert die man drücken muss, ist man zu langsam , oder hat man die falsche Taste drückt, stopt der Versuch. Da ich Anfangs Schwierigkeiten hatte, wie zum Beispiel das die Zeit richtig gestoppt wird, bin ich nocht nicht Fertig. Nächstes mal will ich das Spiel erneut spielbar machen mithilfe eins Restart Menü, ausserdem soll es einen Punktezähler geben, der zählt wie viel mal die richtige Taste gedrückt worden ist. Falls ich noch genügend Zeit habe, möchte ich noch die Darstellung verschönern. Ziel ist jedoch, bis am 12.03.2024 mit dem Spiel fertig zu werden.
+Ich habe angefangen mein Spiel "PressTheButtons" zu Coden. Bis jetzt  werden fortlaufend zufällige Tasten generiert die man drücken muss, ist man zu langsam , oder hat man die falsche Taste drückt, stopt der Versuch. Da ich Anfangs Schwierigkeiten hatte, wie zum Beispiel das die Zeit richtig gestoppt wird, bin ich nocht nicht Fertig. Nächstes mal will ich das Spiel erneut spielbar machen mithilfe eins Restart Menü, ausserdem soll es einen Punktezähler geben, der zählt wie viel mal die richtige Taste gedrückt worden ist. Falls ich noch genügend Zeit habe, möchte ich noch die Darstellung verschönern. Ziel ist jedoch, bis zum nächsten Unterricht mit dem Spiel fertig zu werden.
 
 &nbsp;
 

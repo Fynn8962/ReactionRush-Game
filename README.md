@@ -143,7 +143,7 @@ Ich habe zu meinem Game ein restartmenu hinzugefügt, welches ermöglicht nach e
 
  &nbsp;
 
- **Heute habe ich...** 
+ **Heute habe ich...**              
  .....
  
 ### Reflexion

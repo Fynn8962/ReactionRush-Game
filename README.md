@@ -93,7 +93,7 @@ Da wir heute nur bis 11:00 Zeit hatten, habe ich das vierte Arbeitspaket nicht b
 
  **Heute habe ich...**
 
-Ich habe angefangen mein Spiel "PressTheButtons" zu Coden. Bis jetzt  werden fortlaufend zufällige Tasten generiert die man drücken muss, ist man zu langsam , oder hat man die falsche Taste drückt, stopt der Versuch. Da ich Anfangs Schwierigkeiten hatte, wie zum Beispiel das die Zeit richtig gestoppt wird, bin ich nocht nicht Fertig. Nächstes mal will ich das Spiel erneut spielbar machen mithilfe eins Restart Menü, ausserdem soll es einen Punktezähler geben, der zählt wie viel mal die richtige Taste gedrückt worden ist. Falls ich noch genügend Zeit habe, möchte ich noch die Darstellung verschönern. Ziel ist jedoch, bis zum nächsten Unterricht mit dem Spiel fertig zu werden.
+Ich habe angefangen mein Spiel "PressTheButtons" zu Coden. Bis jetzt  werden fortlaufend zufällige Tasten generiert die man drücken muss, ist man zu langsam , oder hat man die falsche Taste drückt, stopt der Versuch. Da ich Anfangs Schwierigkeiten hatte, wie zum Beispiel das die Zeit richtig gestoppt wird, bin ich nocht nicht Fertig. Nächstes mal will ich das Spiel erneut spielbar machen mithilfe eins Restart Menü, ausserdem soll es einen Punktezähler geben, der zählt wie viel mal die richtige Taste gedrückt worden ist. Falls ich noch genügend Zeit habe, möchte ich noch die Darstellung verschönern. 
 
 &nbsp;
 
@@ -102,23 +102,49 @@ Ich habe angefangen mein Spiel "PressTheButtons" zu Coden. Bis jetzt  werden for
 ### *12.03.2024*
 
 - [ ] Verschiedene Schwierigkeitsstufen die ausgewählt werden können (leicht, mittel, schwer).
-- [ ] Restart Menü, um nochmal  zu Spielen oder um aufzuhören.
+- [x] Restart Menü, um nochmal  zu Spielen oder um aufzuhören.
 - [ ] Punktezähle am Ende des versuchs, der gedrückte Tasten zusammenzählt.
-- [ ] Anschauliche, Benutzerfreundliche Oberfläche, damit das Spiel mehr Spass macht.
+- [x] Anschauliche, Benutzerfreundliche Oberfläche, damit das Spiel mehr Spass macht.
 
 &nbsp;
 
 | Testfall-Nummer | Ausgangslage (Given) |	Eingabe (When) | Ausgabe (Then) | Erfüllt? | 
 |-----------------|----------------------|----------------|----------------|----------|
 | 1 | game Menü | Auswahl einfach, mittel, schwer | Schwierigkeit wird angepasst | |
-| 2 | restart Menü | Auswahl: fortfahren, beenden | Auswahl wird ausgeführt | |
+| 2 | restart Menü | Auswahl: fortfahren, beenden | Auswahl wird ausgeführt |x |
 | 3 | versuch vorbei, (game over) | gedrückte Tasten zusammenzählen | Ausgabe Anzahl gedrückter Tasten | |
-| 4 |		game Spielen | Schöne, übersichtliche Darstellung | freude am Spiel | |
+| 4 |		game Spielen | Schöne, übersichtliche Darstellung | freude am Spiel |x |
 
  &nbsp;
 
  **Heute habe ich...**         
-.......
+
+Ich habe zu meinem Game ein restartmenu hinzugefügt, welches ermöglicht nach einen verlorenen Spiel nochmal neu zu spielen. Ausserdem habe ich nachdem man ein Versuch startet einen Countdown eingefügt, damit es nicht so apprupt losgeht. Weitere Anpassungen wie zum Beispiel Zentrieren des Text und ändern der Textfarbe (Beispiel: "GAME OVER" in rot) habe ich zur verschönerung vorgenommen. Zu verstehen wie ich den Text in der Console zentrieren kann hat mir anfangs Probleme bereitet, da es nicht so einfach ist wie ich gedacht habe. Beim nächsten mal möchte ich als erstes die Score Anzeige machen, damit das Spielen mehr Sinn bekommt. Anschliessend noch mehrere Schwierigkeitsmodi um mehr Abwechslung reinzubringen. Am Ende möchte ich noch alles auf mögliche Bugs überprüfen, damit das Spiel auch Benutzerfreundlich ist. (Bsp wenn man im Menü irgendwelche Tasten drückt, dass das Spiel diese nicht falsch interpretiert sondern ignoriert und nur wenn eine Sinngemässe Taste (z.B Start) gedrückt wird, das Programm dann reagiert.)
+
+&nbsp;
+
+&nbsp;
+
+### *19.03.2024*
+
+- [ ] Punktezähle am Ende des versuchs, der gedrückte Tasten zusammenzählt.
+- [ ] Verschiedene Schwierigkeitsstufen die ausgewählt werden können (leicht, mittel, schwer).
+- [ ] Durch Debuggen Fehler in meinem Spiel beheben. (z.B in- output fehler)
+- [ ] Mein Spiel als .exe Datei auf meinen Desktop verknüpften und mit einem Logo versehen. (z.B  Taste(n) der Tastatur als Symbol)
+
+&nbsp;
+
+| Testfall-Nummer | Ausgangslage (Given) |	Eingabe (When) | Ausgabe (Then) | Erfüllt? | 
+|-----------------|----------------------|----------------|----------------|----------|
+| 1 | versuch vorbei, (game over) | gedrückte Tasten zusammenzählen | Ausgabe Anzahl gedrückter Tasten | |
+| 2 | game Menü | Auswahl einfach, mittel, schwer | Schwierigkeit wird angepasst | |
+| 3 | Spiel spielen | zufällige Tasten drücken | nichts | |
+| 4 | Lust zum Spielen | Doppelklick auf Desktop-Icon | Spiel öffnet sich | |
+
+ &nbsp;
+
+ **Heute habe ich...** 
+ .....
  
 ### Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).

@@ -127,8 +127,8 @@ Ich habe zu meinem Game ein restartmenu hinzugefügt, welches ermöglicht nach e
 
 ### *19.03.2024*
 
-- [ ] Punktezähle am Ende des versuchs, der gedrückte Tasten zusammenzählt.
-- [ ] Verschiedene Schwierigkeitsstufen die ausgewählt werden können (leicht, mittel, schwer).
+- [x] Punktezähle am Ende des versuchs, der gedrückte Tasten zusammenzählt.
+- [x] Verschiedene Schwierigkeitsstufen die ausgewählt werden können (leicht, mittel, schwer).
 - [ ] Durch Debuggen Fehler in meinem Spiel beheben. (z.B in- output fehler)
 - [ ] Mein Spiel als .exe Datei auf meinen Desktop verknüpften und mit einem Logo versehen. (z.B  Taste(n) der Tastatur als Symbol)
 
@@ -136,15 +136,40 @@ Ich habe zu meinem Game ein restartmenu hinzugefügt, welches ermöglicht nach e
 
 | Testfall-Nummer | Ausgangslage (Given) |	Eingabe (When) | Ausgabe (Then) | Erfüllt? | 
 |-----------------|----------------------|----------------|----------------|----------|
-| 1 | versuch vorbei, (game over) | gedrückte Tasten zusammenzählen | Ausgabe Anzahl gedrückter Tasten | |
-| 2 | game Menü | Auswahl einfach, mittel, schwer | Schwierigkeit wird angepasst | |
+| 1 | versuch vorbei, (game over) | gedrückte Tasten zusammenzählen | Ausgabe Anzahl gedrückter Tasten | x |
+| 2 | game Menü | Auswahl einfach, mittel, schwer | Schwierigkeit wird angepasst | x |
 | 3 | Spiel spielen | zufällige Tasten drücken | nichts | |
 | 4 | Lust zum Spielen | Doppelklick auf Desktop-Icon | Spiel öffnet sich | |
 
  &nbsp;
 
  **Heute habe ich...**              
- .....
+ Als erster habe ich eine score Anzeige hinzugefügt, die keine grossen Probleme gemacht hat und auch einwandfrei funktioniert. Anschliessend wollte ich kleine Bugs fixen, was aber doch mehr Probleme gemacht hat als gedacht. Ich habe nach langem Probieren mich dazu entschieden, mit der Schwierigkeitsauswahl anzufangen, um nicht Zeit zu verschwenden. Die 4 Schwierigkeitsstufen die ich erstellt habe waren schnell und einfach gemacht. Bei der Einfachsten hat man nun 2 Sekunden zum reagieren und bei der schwierigsten 
+0.5 Sekunden. Zum Debuggen bin ich danach leider nicht mehr gekommen, heisst ich werde nächstes mal noch alle Fehler beheben und dann das Spiel abschliessen.
  
+&nbsp;
+
+&nbsp;
+
+### *26.03.2024*
+
+- [ ] Durch Debuggen Fehler in meinem Spiel beheben. (z.B in- output fehler)
+- [ ] Mein Spiel als .exe Datei auf meinen Desktop verknüpften und mit einem Logo versehen. (z.B  Taste(n) der Tastatur als Symbol)
+- [ ] Modul 117 an der Dokumentation arbeiten. (neue Inhalte die hinzuzufügen sind vom Freitag 22.03, dokumentieren.)
+- [ ] Werte aus einem VS-Programm in einer .txt Datei speichern (um z.B Spielstände zu speichern)
+      
+&nbsp;
+
+| Testfall-Nummer | Ausgangslage (Given) |	Eingabe (When) | Ausgabe (Then) | Erfüllt? | 
+|-----------------|----------------------|----------------|----------------|----------|
+| 1 | Spiel spielen | zufällige Tasten drücken | nichts | |
+| 2 | Lust zum Spielen | Doppelklick auf Desktop-Icon | Spiel öffnet sich | |
+| 3 |Vorgabe was Dokumentiert werden soll | Dokumentieren | Falls nötig abgeben auf Moodle | |
+| 4 | z.B neuer Highscore | Speichere unter "Pfad\.txt" | Wert gespeichert | |
+
+ &nbsp;
+
+ **Heute habe ich...**           
+ .....
 ### Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).

@@ -146,6 +146,7 @@ Ich habe zu meinem Game ein restartmenu hinzugefügt, welches ermöglicht nach e
  **Heute habe ich...**              
  Als erster habe ich eine score Anzeige hinzugefügt, die keine grossen Probleme gemacht hat und auch einwandfrei funktioniert. Anschliessend wollte ich kleine Bugs fixen, was aber doch mehr Probleme gemacht hat als gedacht. Ich habe nach langem Probieren mich dazu entschieden, mit der Schwierigkeitsauswahl anzufangen, um nicht Zeit zu verschwenden. Die 4 Schwierigkeitsstufen die ich erstellt habe waren schnell und einfach gemacht. Bei der Einfachsten hat man nun 2 Sekunden zum reagieren und bei der schwierigsten 
 0.5 Sekunden. Zum Debuggen bin ich danach leider nicht mehr gekommen, heisst ich werde nächstes mal noch alle Fehler beheben und dann das Spiel abschliessen.
+Ich habe den Code des Games hochgeladen, jedoch enthält dieser wie gesagt noch kleine Bugs.)
  
 &nbsp;
 

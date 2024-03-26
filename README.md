@@ -154,8 +154,8 @@ Ich habe den Code des Games hochgeladen, jedoch enthält dieser wie gesagt noch 
 
 ### *26.03.2024*
 
-- [ ] Durch Debuggen Fehler in meinem Spiel beheben. (z.B in- output fehler)
-- [ ] Mein Spiel als .exe Datei auf meinen Desktop verknüpften und mit einem Logo versehen. (z.B  Taste(n) der Tastatur als Symbol)
+- [x] Durch Debuggen Fehler in meinem Spiel beheben. (z.B in- output fehler)
+- [x] Mein Spiel als .exe Datei auf meinen Desktop verknüpften und mit einem Logo versehen. (z.B  Taste(n) der Tastatur als Symbol)
 - [ ] Modul 117 an der Dokumentation arbeiten. (neue Inhalte die hinzuzufügen sind vom Freitag 22.03, dokumentieren.)
 - [ ] Werte aus einem VS-Programm in einer .txt Datei speichern (um z.B Spielstände zu speichern)
       

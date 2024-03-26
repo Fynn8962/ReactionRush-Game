@@ -143,7 +143,8 @@ Ich habe zu meinem Game ein restartmenu hinzugefügt, welches ermöglicht nach e
 
  &nbsp;
 
- **Heute habe ich...**              
+ **Heute habe ich...**   
+ 
  Als erster habe ich eine score Anzeige hinzugefügt, die keine grossen Probleme gemacht hat und auch einwandfrei funktioniert. Anschliessend wollte ich kleine Bugs fixen, was aber doch mehr Probleme gemacht hat als gedacht. Ich habe nach langem Probieren mich dazu entschieden, mit der Schwierigkeitsauswahl anzufangen, um nicht Zeit zu verschwenden. Die 4 Schwierigkeitsstufen die ich erstellt habe waren schnell und einfach gemacht. Bei der Einfachsten hat man nun 2 Sekunden zum reagieren und bei der schwierigsten 
 0.5 Sekunden. Zum Debuggen bin ich danach leider nicht mehr gekommen, heisst ich werde nächstes mal noch alle Fehler beheben und dann das Spiel abschliessen.
 Ich habe den Code des Games hochgeladen, jedoch enthält dieser wie gesagt noch kleine Bugs.)
@@ -170,10 +171,10 @@ Ich habe den Code des Games hochgeladen, jedoch enthält dieser wie gesagt noch 
 
  &nbsp;
 
- **Heute habe ich...**               
- Ich habe Fehler in meinem Spiel behoben, damit es nun Spielbar ist. Da es immmernoch möglich wäre, dass Fehler entdeckt werden habe ich hinzugefügt, dass sich das Spiel in  
- der  BETA befindet. Ausserdem habe ich noch weitere Ideen die ich villeicht abseits des _ern-Ateliers noch hinzufügen/abändern werde. Nachdem ich mit der Funktion des Spiels   zufrieden war habe ich noch das Code Layout ein bischen verschöndert und unnötige Abstände gelöscht. Damit ich mein Spiel auch spielen kann habe ich dan eine Verknüpfung  
- erstellt die ich auf meinem Desktop gezogen habe. Nun kann man das Spiel ohne den Visual Stuido zu starten direkt spielen.
+ **Heute habe ich...** 
+ 
+Ich habe Fehler in meinem Spiel behoben, damit es nun Spielbar ist. Da es immmernoch möglich wäre, dass Fehler entdeckt werden habe ich hinzugefügt, dass sich das Spiel in der BETA befindet. Ausserdem habe ich noch weitere Ideen die ich villeicht abseits des _ern-Ateliers noch hinzufügen/abändern werde. 
+Nachdem ich mit der Funktion des Spiels zufrieden war habe ich noch das Code Layout ein bischen verschöndert und unnötige Abstände gelöscht. Damit ich mein Spiel auch spielen kann habe ich dan eine Verknüpfung erstellt die ich auf meinem Desktop gezogen habe. Nun kann man das Spiel ohne den Visual Stuido zu starten direkt spielen.
   
 &nbsp;
 

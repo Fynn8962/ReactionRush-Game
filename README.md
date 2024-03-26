@@ -173,7 +173,7 @@ Ich habe den Code des Games hochgeladen, jedoch enthält dieser wie gesagt noch 
 
  **Heute habe ich...** 
  
-Ich habe Fehler in meinem Spiel behoben, damit es nun Spielbar ist. Da es immmernoch möglich wäre, dass Fehler entdeckt werden habe ich hinzugefügt, dass sich das Spiel in der BETA befindet. Ausserdem habe ich noch weitere Ideen die ich villeicht abseits des _ern-Ateliers noch hinzufügen/abändern werde. 
+Ich habe Fehler in meinem Spiel behoben, damit es nun Spielbar ist. Ein Bug hat mich sehr lange aufgehalten da ich auch durch Debugen nicht heraufinden konnte, wo der Fehler war. Schlussentlich konnte ich das Problem jedoch beheben, indem ich einen Teil des Codes umgeschrieben habe. Da es immmernoch möglich wäre, dass Fehler entdeckt werden habe ich hinzugefügt, dass sich das Spiel in der BETA befindet. Ausserdem habe ich noch weitere Ideen die ich villeicht abseits des _ern-Ateliers noch hinzufügen/abändern werde. 
 Nachdem ich mit der Funktion des Spiels zufrieden war habe ich noch das Code Layout ein bischen verschöndert und unnötige Abstände gelöscht. Damit ich mein Spiel auch spielen kann habe ich dan eine Verknüpfung erstellt die ich auf meinem Desktop gezogen habe. Nun kann man das Spiel ohne den Visual Stuido zu starten direkt spielen.
   
 &nbsp;

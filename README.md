@@ -163,14 +163,40 @@ Ich habe den Code des Games hochgeladen, jedoch enthält dieser wie gesagt noch 
 
 | Testfall-Nummer | Ausgangslage (Given) |	Eingabe (When) | Ausgabe (Then) | Erfüllt? | 
 |-----------------|----------------------|----------------|----------------|----------|
-| 1 | Spiel spielen | zufällige Tasten drücken | nichts | |
-| 2 | Lust zum Spielen | Doppelklick auf Desktop-Icon | Spiel öffnet sich | |
+| 1 | Spiel spielen | zufällige Tasten drücken | nichts | x |
+| 2 | Lust zum Spielen | Doppelklick auf Desktop-Icon | Spiel öffnet sich | x |
 | 3 |Vorgabe was Dokumentiert werden soll | Dokumentieren | Falls nötig abgeben auf Moodle | |
 | 4 | z.B neuer Highscore | Speichere unter "Pfad\.txt" | Wert gespeichert | |
 
  &nbsp;
 
- **Heute habe ich...**           
- .....
+ **Heute habe ich...**               
+ Ich habe Fehler in meinem Spiel behoben, damit es nun Spielbar ist. Da es immmernoch möglich wäre, dass Fehler entdeckt werden habe ich hinzugefügt, dass sich das Spiel in  
+ der  BETA befindet. Ausserdem habe ich noch weitere Ideen die ich villeicht abseits des _ern-Ateliers noch hinzufügen/abändern werde. Nachdem ich mit der Funktion des Spiels   zufrieden war habe ich noch das Code Layout ein bischen verschöndert und unnötige Abstände gelöscht. Damit ich mein Spiel auch spielen kann habe ich dan eine Verknüpfung  
+ erstellt die ich auf meinem Desktop gezogen habe. Nun kann man das Spiel ohne den Visual Stuido zu starten direkt spielen.
+  
+&nbsp;
+
+&nbsp;
+
+### *02.04.2024*
+
+- [ ] Modul 117 an der Dokumentation arbeiten. (neue Inhalte die hinzuzufügen sind vom Freitag 22.03, dokumentieren.)
+- [ ] Werte aus einem VS-Programm in einer .txt Datei speichern (um z.B Spielstände zu speichern)
+- [ ] Das gelernte aus Arbeitspaket 2 auf mein Spiel das ich gemacht habe anwenden. Somit können dann Highscores gespeichert werden.
+      
+&nbsp;
+
+| Testfall-Nummer | Ausgangslage (Given) |	Eingabe (When) | Ausgabe (Then) | Erfüllt? | 
+|-----------------|----------------------|----------------|----------------|----------|
+| 1 |Vorgabe was Dokumentiert werden soll | Dokumentieren | Falls nötig abgeben auf Moodle | |
+| 2 | z.B neuer Highscore | Speichere unter "Pfad\.txt" | Wert gespeichert | |
+| 3 | Neuer Highscore in ReactionRush | überschreibt Wert in .txt Datei  | neuer Highscore gespeichert |  |
+
+ &nbsp;
+
+ **Heute habe ich...**                       
+ .......
+ 
 ### Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).

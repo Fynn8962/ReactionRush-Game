@@ -182,22 +182,22 @@ Nachdem ich mit der Funktion des Spiels zufrieden war habe ich noch das Code Lay
 
 ### *02.04.2024*
 
-- [ ] Modul 117 an der Dokumentation arbeiten. (neue Inhalte die hinzuzufügen sind vom Freitag 22.03, dokumentieren.)
-- [ ] Werte aus einem VS-Programm in einer .txt Datei speichern (um z.B Spielstände zu speichern)
+- [x] Modul 187 an der Dokumentation arbeiten. (neue Inhalte die hinzuzufügen sind vom Freitag 22.03, dokumentieren.)
+- [x] Werte aus einem VS-Programm in einer .txt Datei speichern (um z.B Spielstände zu speichern)
 - [ ] Das gelernte aus Arbeitspaket 2 auf mein Spiel das ich gemacht habe anwenden. Somit können dann Highscores gespeichert werden.
       
 &nbsp;
 
 | Testfall-Nummer | Ausgangslage (Given) |	Eingabe (When) | Ausgabe (Then) | Erfüllt? | 
 |-----------------|----------------------|----------------|----------------|----------|
-| 1 |Vorgabe was Dokumentiert werden soll | Dokumentieren | Falls nötig abgeben auf Moodle | |
-| 2 | z.B neuer Highscore | Speichere unter "Pfad\.txt" | Wert gespeichert | |
+| 1 |Vorgabe was Dokumentiert werden soll | Dokumentieren | Falls nötig abgeben auf Moodle |x|
+| 2 | z.B neuer Highscore | Speichere unter "Pfad\.txt" | Wert gespeichert |x|
 | 3 | Neuer Highscore in ReactionRush | überschreibt Wert in .txt Datei  | neuer Highscore gespeichert |  |
 
  &nbsp;
 
  **Heute habe ich...**                       
- .......
+ Ich habe für da Modul 187 2 neue Einträge in die Dokumentation geschrieben zum Thema Systemsicherheit und zum Thema Virtuelle Maschine. Anschliessend habe ich versucht herauszufinden wie man einen Wert in einer .txt Datei speichert. In der Art wie ich es brauche war es sehr leicht zu verstehen, da ich immer nur einen int Wert (den Highscore) hinenschreibe/speichern möchte und wenn ein neuer Highscore erspielt wird, wird der alte einfach überschrieben. (...)
  
 ### Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).

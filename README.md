@@ -197,7 +197,7 @@ Nachdem ich mit der Funktion des Spiels zufrieden war habe ich noch das Code Lay
  &nbsp;
 
  **Heute habe ich...**                       
- Ich habe für da Modul 187 2 neue Einträge in die Dokumentation geschrieben zum Thema Systemsicherheit und zum Thema Virtuelle Maschine. Anschliessend habe ich versucht herauszufinden wie man einen Wert in einer .txt Datei speichert. In der Art wie ich es brauche war es sehr leicht zu verstehen, da ich immer nur einen int Wert (den Highscore) hinenschreibe/speichern möchte und wenn ein neuer Highscore erspielt wird, wird der alte einfach überschrieben. (...)
+ Ich habe für das Modul 187 zwei neue Einträge in die Dokumentation geschrieben zum Thema Systemsicherheit und zum Thema Virtuelle Maschine. Anschliessend habe ich versucht herauszufinden wie man einen Wert in einer .txt Datei speichert. In der Art wie ich es brauche war es sehr leicht zu verstehen, da ich immer nur einen int Wert (den Highscore) hinenschreibe/speichern möchte und wenn ein neuer Highscore erspielt wird, wird der alte einfach überschrieben. (...)
  
 ### Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).

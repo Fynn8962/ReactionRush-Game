@@ -197,7 +197,10 @@ Nachdem ich mit der Funktion des Spiels zufrieden war habe ich noch das Code Lay
  &nbsp;
 
  **Heute habe ich...**                       
- Ich habe für das Modul 187 zwei neue Einträge in die Dokumentation geschrieben zum Thema Systemsicherheit und zum Thema Virtuelle Maschine. Anschliessend habe ich versucht herauszufinden wie man einen Wert in einer .txt Datei speichert. In der Art wie ich es brauche war es sehr leicht zu verstehen, da ich immer nur einen int Wert (den Highscore) hinenschreibe/speichern möchte und wenn ein neuer Highscore erspielt wird, wird der alte einfach überschrieben. (...)
+ Ich habe für das Modul 187 zwei neue Einträge in die Dokumentation geschrieben zum Thema Systemsicherheit und zum Thema Virtuelle Maschine. Anschliessend habe ich versucht herauszufinden wie man einen Wert in einer .txt Datei speichert. In der Art wie ich es brauche war es sehr leicht zu verstehen, da ich immer nur einen int Wert (den Highscore) hinenschreibe/speichern möchte und wenn ein neuer Highscore erspielt wird, wird der alte einfach überschrieben. Für das implementieren des Codes in mein Spiele blieb mir leider keien Zeit mehr.
  
 ### Reflexion
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Ich habe mir in de Letzten LP vorgenommen mehr Routine im Coden zu erlangen und neue Sachen zu lernen. Diese habe ich meiner, wie ich finde, gut umsetzten können. ich habe zwie kleinere "Spiele" programmiert mit denen ich sehr zufrieden bin. Ausserdem wollte ich Projekte machen bei denen ich nicht nach zwei Sitzungen schon fertig bin, was mir auch gelungen ist. Ich habe durch diese Arbeitspackete neue techniken und Denkweisen kennengelernt. Mit meiner Arbeitsweise bin ich sehr Zufrieden. Ich habe immer gewusst was zu tuhen ist durch meine Arbeitspackete, zeitlich gab es manchmal kleine Probleme aber ich konnt meisten gut im Zeitplan bleiben. 
+
+In der LP5 als Abschluss würde ich gerne entweder ein Spiel in z.B (Unity) programmieren oder mich mit HTML beschäftigen und eine Website, mit z.B Info's über mich, erstellen. Das heisst in der LP5 möchte ich mich gerne mit etwas grossem beschäftigen damit ich am Schluss etwas in der Hand habe was mir sehr gefällt. 
+Fazit: Ich möchte in der nächsten LP5 mir etwas neues beibringen (bsp. Unity, HTML) und anhand des erlenten dann ein Projekt erstellen das für mich am Schluss Perfekt sein soll ohne Fehler oder unreinheiten. 

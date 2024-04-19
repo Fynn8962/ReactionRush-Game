@@ -10,7 +10,10 @@ namespace LP4_PressTheButtons
 
         static bool repeat;
         static int score = 0;
+        static int highScore;
+        static string highScoreText;
         static bool gameOver = false;
+        static string difficulty;
         static void Main(string[] args)
         {
             Console.CursorVisible = false;
@@ -28,6 +31,8 @@ namespace LP4_PressTheButtons
             Console.WriteLine("\nstart game: Enter");
             Console.WriteLine("leave game: Escape");
 
+            
+            
             while (startGame == false && stopGame == false)
             {
                 switch (Console.ReadKey(true).Key)
@@ -55,30 +60,46 @@ namespace LP4_PressTheButtons
 
                 while (!repeat)
                 {
+                    highScoreText = File.ReadAllText("highscore.txt");
                     Console.CursorVisible = false;
 
                     Console.Clear();
+                    
                     Console.WriteLine("\nDifficulty options:\n " +
                              "2000ms..Easy.....[6]\n " +
                              "1500ms..Medium...[7]\n " +
                              "1000ms..Hard.....[8]\n " +
                              "500ms...Extreme..[9]");
 
+                    Console.WriteLine("\nStats:");
+                    Console.ForegroundColor= ConsoleColor.DarkYellow;
+                    Console.WriteLine(" High Score: " + highScoreText);
+                    Console.ResetColor();
                     Nullable<TimeSpan> reactionSpeed = null;
-
+                    difficulty = "";
                     while (reactionSpeed == null)
                     {
                         switch (Console.ReadKey(true).Key)
                         {
-                            case ConsoleKey.D6: reactionSpeed = TimeSpan.FromMilliseconds(2000); break;
-                            case ConsoleKey.D7: reactionSpeed = TimeSpan.FromMilliseconds(1500); break;
-                            case ConsoleKey.D8: reactionSpeed = TimeSpan.FromMilliseconds(1000); break;
-                            case ConsoleKey.D9: reactionSpeed = TimeSpan.FromMilliseconds(500); break;
+                            case ConsoleKey.D6: reactionSpeed = TimeSpan.FromMilliseconds(2000); difficulty = "Mode: Easy"; break;
+                            case ConsoleKey.D7: reactionSpeed = TimeSpan.FromMilliseconds(1500); difficulty = "Mode: Medium";  break;
+                            case ConsoleKey.D8: reactionSpeed = TimeSpan.FromMilliseconds(1000); difficulty = "Mode: Hard";  break;
+                            case ConsoleKey.D9: reactionSpeed = TimeSpan.FromMilliseconds(500); difficulty = "Mode: Extreme";  break; 
                         }
                     }
 
                     Console.Clear();
+                    switch(difficulty)
+                    {
+                        case "Mode: Easy": Console.ForegroundColor = ConsoleColor.DarkGreen; break;
+                        case "Mode: Medium": Console.ForegroundColor = ConsoleColor.Yellow; break;
+                        case "Mode: Hard": Console.ForegroundColor = ConsoleColor.Red; break;
+                        case "Mode: Extreme": Console.ForegroundColor = ConsoleColor.DarkRed; break;
+                    }
+                    
 
+                    Console.WriteLine(difficulty);
+                    Console.ResetColor();
                     for (int i = 3; i > 0; i--)
                     {
                         string centercountdown = i.ToString();
@@ -90,7 +111,7 @@ namespace LP4_PressTheButtons
                     }
 
                     Console.Clear();
-
+                    
                     Stopwatch stopwatch = new();
 
 
@@ -105,7 +126,7 @@ namespace LP4_PressTheButtons
                         int stringWidth = center.Length;
                         int centering = (screenWidth - stringWidth) / 2;
 
-                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.ForegroundColor = ConsoleColor.Cyan;
                         Console.WriteLine("\n\n\n" + center.PadLeft(centering + stringWidth));
                         Console.ResetColor();
 
@@ -142,11 +163,34 @@ namespace LP4_PressTheButtons
 
         private static void Restart()
         {
-            int finalscore = score - 1;
             Console.Clear();
-            Console.ForegroundColor = ConsoleColor.Green;
+
+            int finalscore = score - 1;
+            
+            
+            
+            
+            switch (difficulty)
+            {
+                case "Mode: Easy": Console.ForegroundColor = ConsoleColor.DarkGreen; break;
+                case "Mode: Medium": Console.ForegroundColor = ConsoleColor.Yellow; break;
+                case "Mode: Hard": Console.ForegroundColor = ConsoleColor.Red; break;
+                case "Mode: Extreme": Console.ForegroundColor = ConsoleColor.DarkRed; break;
+            }
+            Console.WriteLine(difficulty+ "\n");
+            Console.ResetColor();
+            if (finalscore > highScore)
+            {
+                highScore = finalscore;
+                File.WriteAllText("highscore.txt", highScore.ToString());
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("   New highscore!   ");
+                Console.ResetColor();
+            }
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine("\nScore: " + finalscore + "\n");
             Console.ResetColor();
+            
             score = 0;
             finalscore = 0;
 

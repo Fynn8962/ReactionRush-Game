@@ -206,4 +206,4 @@ In der LP5 als Abschluss würde ich gerne entweder ein Spiel in z.B (Unity) prog
 Fazit: Ich möchte in der nächsten LP5 mir etwas neues beibringen (bsp. Unity, HTML) und anhand des erlenten dann ein Projekt erstellen das für mich am Schluss Perfekt sein soll ohne Fehler oder unreinheiten. 
 
 ### *19.04.2024*
-Nach dem Abschluss der LP4 habe ich mein Spiel nochmal verändert und dann doch noch die Highscore anzeige und das Speichers des Highscores hinzugefügt. Das Speichern und auslesen des Highscores war keine grosse Sache. Am Schluss habe ich noch die neue Highscore anzeige schön in den Rest der Benutzeroberfläche integriergt und bin nun zufrieden mit dem kleinen "Game". Den Code habe im jetztigen zustdanst Hochgeladen.
+Nach dem Abschluss der LP4 habe ich mein Spiel nochmal verändert und dann doch noch die Highscore Anzeige und das Speichers des Highscores hinzugefügt. Das Speichern und auslesen des Highscores war keine grosse Sache. Am Schluss habe ich noch die neue Highscore anzeige schön in den Rest der Benutzeroberfläche integriergt und bin nun zufrieden mit dem kleinen "Game". Den Code habe im jetztigen zustdanst Hochgeladen.

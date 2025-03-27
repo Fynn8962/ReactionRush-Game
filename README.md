@@ -4,7 +4,8 @@ Fynn Huber
 
 # Mein Projekt
 In diesem Konsolenspiel geht es darum, die Tasten, die angezeigt werden, richtig zu drücken, braucht man zu lang, zählt der Input nicht mehr. Es gibt verschieden Schwierigkeitsgrade, in welchen man unterschiedlich schnell reagieren muss. Der Highscore (welcher für alle Spielmodi derselbe ist) wird in einer .txt Datei gespeichert. Bei Überschreiten des alten Highscores hat man einen neuen Highscore, welcher dann auch den alten Highscore überschreibt.
-[Code](https://github.com/Fynn8962/ReactionRush-Game/tree/main/LP4_ReactionRush%20BetaV1.1%20)
+[Code](https://github.com/Fynn8962/ReactionRush-Game/tree/main/LP4_ReactionRush%20BetaV1.1%20)                          
+
 **Gameplay:**                  
 <img src="https://github.com/Fynn8962/ReactionRush-Game/blob/main/reaction_rush.gif" alt="Gif Reaction-Rush Spiel" width="500" >
 

@@ -1,7 +1,14 @@
 # Lern-Periode 4
 Fynn Huber
-
 20.02.2024 bis 02.04.2024
+
+# Mein Projekt
+In diesem Konsolenspiel geht es darum, die Tasten, die angezeigt werden, richtig zu drücken, braucht man zu lang, zählt der Input nicht mehr. Es gibt verschieden Schwierigkeitsgrade, in welchen man unterschiedlich schnell reagieren muss. Der Highscore (welcher für alle Spielmodi derselbe ist) wird in einer .txt Datei gespeichert. Bei Überschreiten des alten Highscores hat man einen neuen Highscore, welcher dann auch den alten Highscore überschreibt.
+
+<img src="https://github.com/Fynn8962/ReactionRush-Game/blob/main/reaction_rush.gif" alt="Gif Reaction-Rush Spiel" width="500" >
+
+<img src="https://github.com/Fynn8962/ReactionRush-Game/blob/main/4JQzNArVdZ.png" alt="Bild Reaction-Rush Menü" width="500" >
+
 
 # Grob-Planung
 

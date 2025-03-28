@@ -7,7 +7,7 @@ Reaction-Rush ist ein Konsolenspiel geschrieben in C#. Das Ziel ist es, die Tast
 [Projektordner](https://github.com/Fynn8962/ReactionRush-Game/tree/main/LP4_ReactionRush%20BetaV1.1%20)                          
 
 **Gameplay:**                  
-<img src="https://github.com/Fynn8962/ReactionRush-Game/blob/main/reaction_rush.gif" alt="Gif Reaction-Rush Spiel" width="500" >
+<img src="https://github.com/Fynn8962/ReactionRush-Game/blob/main/reaction_rush_gif.gif" alt="Gif Reaction-Rush Spiel" width="500" >
 
 **Spielmodusauswahl:**                               
 <img src="https://github.com/Fynn8962/ReactionRush-Game/blob/main/4JQzNArVdZ.png" alt="Bild Reaction-Rush Menü" width="500" >
